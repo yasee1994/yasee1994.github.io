@@ -17,6 +17,28 @@ To fully use all the features of **Chirpy**, you need to copy the other critical
 
 In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
+## 本地运行
+
+```
+$ bundle exec jekyll s
+```
+
+
+## 新post
+
+```
+---
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [TAG]     # TAG names should always be lowercase
+---
+```
+
+更多请查看[作者的demo](https://chirpy.cotes.page/posts/write-a-new-post/)
+
+
+
 ## Prerequisites
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
