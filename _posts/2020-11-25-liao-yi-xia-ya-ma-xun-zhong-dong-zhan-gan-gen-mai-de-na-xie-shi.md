@@ -84,6 +84,6 @@ And our legal team will take further action on your company
 
 # 亚马逊的回复
 ![](https://yan1994-1301672808.cos.ap-singapore.myqcloud.com/Img/20200402114040.jpg)
-当然这个邮件发过来后我有看了下这个卖家还是没有被马上关店.所以不要开心太早，但是也不要气馁，一次不行再继续举报，跟买狗不走就投诉到他关店！
+当然这个邮件发过来并不代表会真的关店（哎。。。).
 
 就这么多了，祝大家早日摆脱跟买狗。希望各位大佬多多指点提携。
