@@ -1,4 +1,8 @@
-## 使用在线工具prose.io将文章快速发布在GitHub仓库中的博客
+---
+title: 使用在线工具prose.io将文章快速发布在GitHub仓库中的博客
+categories: [工作的工具]
+tags: [工作的工具]     # TAG names should always be lowercase
+---
 
 # 前言
 > 我的博客是使用jekyll进行搭建的。
