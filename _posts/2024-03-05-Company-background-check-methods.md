@@ -1,12 +1,4 @@
 
----
-title: 背调方式
-categories: [工作上的思考, B2B]
-tags: [国际站]     # TAG names should always be lowercase
-
----
-
- 
 
 - ## 国际站询盘
 
